@@ -1,4 +1,6 @@
-# Contents
+# Registration Form
+
+## Contents
 
 - [About](#about)
 - [Status](#status)
